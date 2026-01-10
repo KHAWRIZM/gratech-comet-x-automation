@@ -1,64 +1,60 @@
 <div align="center">
 
-# 🦅 KHAWRIZM | THE ALGORITHM
-### The Human Engine & Sovereign Architect
-### المحرك البشري ومهندس السيادة
+![Khawrizm Banner](https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=300&section=header&text=KHAWRIZM&fontSize=90&animation=fadeIn&fontAlignY=38&desc=The%20Human%20Engine%20%7C%20Sovereign%20Architect&descAlignY=51&descAlign=62)
 
-![Billing Failed](https://img.shields.io/badge/BILLING-FAILED_BUT_I_AM_ALIVE-ce0000?style=for-the-badge&logo=microsoft)
+### 🦅 "They failed to bill me. Now they cannot stop me."
+### "فشلوا في محاسبتي.. والآن لن يستطيعوا إيقافي."
+
+![Billing Status](https://img.shields.io/badge/BILLING-FAILED_BUT_I_AM_ALIVE-ce0000?style=for-the-badge&logo=microsoft)
+![Cloud Status](https://img.shields.io/badge/CLOUD-BANNED-000000?style=for-the-badge&logo=azure)
 ![Sovereignty](https://img.shields.io/badge/SOVEREIGNTY-100%25-00ffff?style=for-the-badge&logo=linux)
-![Cost](https://img.shields.io/badge/COST-%240.00-e5e4e2?style=for-the-badge&logo=apache)
-
----
-
-### "They tried to meter my intelligence. I wired my own satellite."
-### "حاولوا قياس ذكائي بفواتيرهم.. فبنيت قمري الصناعي الخاص."
-
----
 
 </div>
 
-## 🏴 The Origin Story | الحكاية
-They sent me a notification: **"We are having a problem billing your account."**
-They thought this would stop me. They thought I was a "User" dependent on their cloud.
-Instead, they woke up **The Sovereign**.
+---
 
-I don't rent power. I build it.
-This profile is not a portfolio. It is a **Declaration of Independence**.
+## 🏴 The Mission | المهمة
+I am an architect of **Local-First** technology.
+I build systems that run on **Your Hardware**, store data on **Your Disk**, and serve **Your Intelligence**.
+No subscriptions. No API keys. No hidden meters.
 
-## ⚔️ The Arsenal | الترسانة
+## ⚔️ The Sovereign Ecosystem | المنظومة السيادية
 
-| Project | Description | Status |
-| :--- | :--- | :---: |
-| **[THE SOVEREIGN BEACON](https://github.com/KHAWRIZM/THE-SOVEREIGN-BEACON)** | My personal internet. Runs on local hardware. Encrypted. Free. Unstoppable. <br> *منارتي الخاصة.. بديل الإنترنت التجاري.* | 🔥 **ACTIVE** |
-| **[GraTech CometX](https://github.com/KHAWRIZM/gratech-cometx)** | AI-Powered Web App. The bridge between the old world (Azure) and the new freedom. <br> *منصة الذكاء الاصطناعي الهجينة.* | 🚀 **DEPLOYED** |
-| **[Project Zero](https://github.com/KHAWRIZM)** | The upcoming protocol for decentralized P2P communication. No servers. <br> *مشروع الصفر.. لا خوادم، لا وسطاء.* | 🛠️ **WIP** |
+| 🏰 **[THE BEACON](https://github.com/KHAWRIZM/THE-SOVEREIGN-BEACON)** | 🚀 **[COMET-X](https://github.com/KHAWRIZM/gratech-cometx)** | 🛡️ **[FORBIDDEN KILLERS](https://github.com/KHAWRIZM)** |
+| :--- | :--- | :--- |
+| **The Infrastructure** | **The Application** | **The Alliance** |
+| A complete local internet replacement. | AI-Powered Web App (Liberated from Azure). | The movement protecting the code. |
+| *Apache • No-IP • Brain V3* | *React • Local LLM • P2P* | *Security • Privacy • Zero-Trust* |
+| [🔴 LIVE STATUS](http://localhost/status.html) | [🟢 DEPLOYED](http://localhost:3000) | [⚫ CLASSIFIED]() |
 
-## 🧠 The Stack | العتاد والعدة
+## 🧠 The Stack (De-Clouded)
 
-I do not use what they sell. I use what they fear: **Raw Compute.**
+We stripped the cloud out. We put the engine in.
 
-* **Core:** \Localhost\ (Apache/Nginx)
-* **Brain:** \Ollama\ + \DeepSeek\ (Local LLMs)
-* **Network:** \No-IP\ + \P2P Mesh\
-* **Language:** \Python\, \PowerShell\, \TypeScript\
-* **Philosophy:** **Buy Free. Live Sovereign.**
+\\\mermaid
+graph LR
+    User[👤 YOU] -->|Owns| Hardware[💻 Local Machine]
+    Hardware -->|Runs| Beacon[🦅 The Sovereign Beacon]
+    Hardware -->|Runs| Comet[🚀 Comet-X App]
+    Beacon -->|Hosts| Files[📂 Sovereign Cloud]
+    Beacon -->|Broadcasts| Radio[📡 Free Radio]
+    Comet -->|Thinks via| Ollama[🧠 Local AI]
+    Cloud[☁️ AWS/Azure] -.->|Blocked| Firewall[🛡️ .00 Cost]
+    style Cloud fill:#f9f,stroke:#333,stroke-width:2px,stroke-dasharray: 5 5
+    style Firewall fill:#ce0000,stroke:#ce0000,color:#fff
+\\\
 
 ## 📊 The Pulse | النبض
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KHAWRIZM&show_icons=true&theme=radical&hide_border=true&bg_color=050508&title_color=00ffff&icon_color=e5e4e2&text_color=e5e4e2" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KHAWRIZM&layout=compact&theme=radical&hide_border=true&bg_color=050508&title_color=00ffff&text_color=e5e4e2" height="150" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KHAWRIZM&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=00ffff&icon_color=e5e4e2&text_color=fff" height="170" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KHAWRIZM&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=00ffff&text_color=fff" height="170" alt="langs" />
 </div>
 
 ---
 
 <div align="center">
-
-### 🦅
-**"Knowledge is the only wealth they cannot tax."**
-*Khawrizm*
-
-[📡 Visit The Beacon](http://localhost/DASHBOARD.html)
-*(Link works only if you are inside the Fortress)*
-
+  <a href="https://github.com/KHAWRIZM/THE-SOVEREIGN-BEACON">
+    <img src="https://img.shields.io/badge/JOIN-THE_RESISTANCE-00ffff?style=for-the-badge" />
+  </a>
 </div>
